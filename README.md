@@ -23,4 +23,4 @@ Cálculo da variância e do desvio padrão para cada coluna utilizando as fórmu
 
 Você pode acessar a planilha com todos os dados e análises necessárias clicando no link abaixo:
 
-[Análise de Dados no Google Sheets]([https://link-do-google-sheet](https://docs.google.com/spreadsheets/d/1atkiVaYzCI3jjuLyjxXBVez4uK6Ia9e2PckFDzc3Q1U/edit?usp=sharing))
+[Análise de Dados no Google Sheets](https://docs.google.com/spreadsheets/d/1atkiVaYzCI3jjuLyjxXBVez4uK6Ia9e2PckFDzc3Q1U/edit?usp=sharing)
